@@ -1,0 +1,8 @@
+﻿<Window x:Class="OnTop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="150" Width="500">
+    <Grid>
+        <CheckBox Content="Always On Top" Click="CheckBox_Click"/>
+    </Grid>
+</Window>
